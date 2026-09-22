@@ -22,3 +22,9 @@ bool ogrenciMi = true;
 
 Console.WriteLine($"{isim} adlı öğrenci {yas} yaşındadır");
 Console.WriteLine($"Öğrenci durum : {ogrenciMi}");
+
+// 2. Yöntem
+var adres = "Burhaniye";
+var numara = 12345;
+
+Console.WriteLine($"Konum {adres}, numara {numara}");
