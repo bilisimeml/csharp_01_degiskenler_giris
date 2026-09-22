@@ -1,0 +1,14 @@
+C:\Users\ogretmenpc01\Documents\ntp10b\01Degiskenler\bin\Debug\net10.0\01Degiskenler.exe
+C:\Users\ogretmenpc01\Documents\ntp10b\01Degiskenler\bin\Debug\net10.0\01Degiskenler.deps.json
+C:\Users\ogretmenpc01\Documents\ntp10b\01Degiskenler\bin\Debug\net10.0\01Degiskenler.runtimeconfig.json
+C:\Users\ogretmenpc01\Documents\ntp10b\01Degiskenler\bin\Debug\net10.0\01Degiskenler.dll
+C:\Users\ogretmenpc01\Documents\ntp10b\01Degiskenler\bin\Debug\net10.0\01Degiskenler.pdb
+C:\Users\ogretmenpc01\Documents\ntp10b\01Degiskenler\obj\Debug\net10.0\01Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogretmenpc01\Documents\ntp10b\01Degiskenler\obj\Debug\net10.0\01Degiskenler.AssemblyInfoInputs.cache
+C:\Users\ogretmenpc01\Documents\ntp10b\01Degiskenler\obj\Debug\net10.0\01Degiskenler.AssemblyInfo.cs
+C:\Users\ogretmenpc01\Documents\ntp10b\01Degiskenler\obj\Debug\net10.0\01Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\ogretmenpc01\Documents\ntp10b\01Degiskenler\obj\Debug\net10.0\01Degiskenler.dll
+C:\Users\ogretmenpc01\Documents\ntp10b\01Degiskenler\obj\Debug\net10.0\refint\01Degiskenler.dll
+C:\Users\ogretmenpc01\Documents\ntp10b\01Degiskenler\obj\Debug\net10.0\01Degiskenler.pdb
+C:\Users\ogretmenpc01\Documents\ntp10b\01Degiskenler\obj\Debug\net10.0\01Degiskenler.genruntimeconfig.cache
+C:\Users\ogretmenpc01\Documents\ntp10b\01Degiskenler\obj\Debug\net10.0\ref\01Degiskenler.dll
